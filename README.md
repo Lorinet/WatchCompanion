@@ -1,2 +1,2 @@
 # WatchCompanion
-Source code for the Garmin Connect IQ application Camera Control. More info: http://lorinet.rf.gd/cameracontrol/
+Source code for the companion app that is required by my Connect IQ apps.
